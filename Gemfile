@@ -41,3 +41,4 @@ gem "binding_of_caller"
 # gem 'debugger', group: [:development, :test]
 
 gem 'bootstrap-sass'
+gem 'rails_12factor'
